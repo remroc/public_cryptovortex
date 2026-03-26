@@ -1,0 +1,30 @@
+# Data (per-exchange directories: data/kucoin/, data/hyperliquid/, etc.)
+data/*/
+data/state/
+!data/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Build (source files used for compilation)
+build/
+
+# Keep lib/.gitkeep for empty dir
+!lib/.gitkeep
+
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
