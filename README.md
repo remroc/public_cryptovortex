@@ -5,7 +5,7 @@
 > combining applied algebraic topology and computational finance.
 > Not reviewed or endorsed by WQU. Shared for educational purposes only.
 >
-> **Author:** [Remi Roche](https://www.linkedin.com/in/rremife)
+> **Author:** [Remi Roche](https://www.linkedin.com/in/rremi)
 
 ---
 
